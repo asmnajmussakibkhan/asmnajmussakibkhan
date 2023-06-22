@@ -55,12 +55,6 @@
 <img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me">
 </img>
 </a>
-<a href="https://www.buymeacoffee.com/najmussakibkhan">
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="najmussakibkhan" />
-</a>
-<a href="https://ko-fi.com/senapati69">
-<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="senapati69" />
-</a>
 </p>
 <br>
 <br>
