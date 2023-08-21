@@ -53,8 +53,8 @@
   <a href="https://www.hackerrank.com/certificates/2c4afd23ef75">
     <img src="./assets/images/hr_react_basic.png" alt="React (Basic) Certificate" width="70" height="94"/>
   </a>
-  <a href="https://www.hackerrank.com/certificates/27c63d801fff" width="70" height="94">
-    <img src="./assets/images/hr_css.png" alt="CSS Certificate"/>
+  <a href="https://www.hackerrank.com/certificates/27c63d801fff">
+    <img src="./assets/images/hr_css.png" alt="CSS Certificate" width="70" height="94"/>
   </a>
 
 <h3 align="left">Support:</h3>
