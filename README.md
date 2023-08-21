@@ -44,6 +44,7 @@
 </p>
 
 <h3 align="left">HackerRank Certificates:</h4>
+<p>
   <a href="https://www.hackerrank.com/certificates/c1e3273d0b50">
     <img src="./assets/images/hr_py_basic.png" alt="Python (Basic) Certificate" width="100"/>
   </a>
@@ -56,6 +57,7 @@
   <a href="https://www.hackerrank.com/certificates/27c63d801fff">
     <img src="./assets/images/hr_css.png" alt="CSS Certificate" width="100"/>
   </a>
+</p>
 
 <h3 align="left">Support:</h3>
 <p>
