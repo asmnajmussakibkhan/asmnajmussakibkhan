@@ -45,16 +45,16 @@
 
 <h3 align="left">HackerRank Certificates:</h4>
   <a href="https://www.hackerrank.com/certificates/c1e3273d0b50">
-    <img src="./assets/images/hr_py_basic.png" alt="Python (Basic) Certificate" width="90"/>
+    <img src="./assets/images/hr_py_basic.png" alt="Python (Basic) Certificate" width="100"/>
   </a>
   <a href="https://www.hackerrank.com/certificates/ba0d9b608385">
-    <img src="./assets/images/hr_js_basic.png" alt="JavaScript (Basic) Certificate"  width="70"/>
+    <img src="./assets/images/hr_js_basic.png" alt="JavaScript (Basic) Certificate"  width="100"/>
   </a>
   <a href="https://www.hackerrank.com/certificates/2c4afd23ef75">
-    <img src="./assets/images/hr_react_basic.png" alt="React (Basic) Certificate" width="70"/>
+    <img src="./assets/images/hr_react_basic.png" alt="React (Basic) Certificate" width="100"/>
   </a>
   <a href="https://www.hackerrank.com/certificates/27c63d801fff">
-    <img src="./assets/images/hr_css.png" alt="CSS Certificate" width="70"/>
+    <img src="./assets/images/hr_css.png" alt="CSS Certificate" width="100"/>
   </a>
 
 <h3 align="left">Support:</h3>
