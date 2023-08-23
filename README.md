@@ -79,7 +79,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=asmnajmussakibkhan&show_icons=true&locale=en" alt="asmnajmussakibkhan">
 </p>
 
-<br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmnajmussakibkhan&" alt="asmnajmussakibkhan">
 </p>
