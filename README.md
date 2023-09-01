@@ -57,6 +57,9 @@
   <a href="https://www.hackerrank.com/certificates/27c63d801fff">
     <img src="./assets/images/hr_css.png" alt="CSS Certificate" width="100"/>
   </a>
+    <a href="https://www.hackerrank.com/certificates/5ea68f86b5ce">
+    <img src="./assets/images/hr_ps_basic.png" alt="Problem Solving (Basic) Certificate" width="100"/>
+  </a>
 </p>
 
 <h3 align="left">Support:</h3>
