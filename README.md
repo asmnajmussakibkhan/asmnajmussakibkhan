@@ -5,7 +5,7 @@
 
 - I'm passionate about **Web Development**
 
-- 2023 Goals: **Master JavaScript and REACT**
+- 2024 Goals: **Master JavaScript and REACT**
 
 - I’m currently learning **REACT**
 
